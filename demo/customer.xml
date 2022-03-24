@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <customer>
+        <firstName>Bob</firstName>
+        <lastName>Kelsey</lastName>
+    </customer>
+    <customer>
+        <firstName>Vad</firstName>
+        <lastName>Zlobin</lastName>
+    </customer>
+    <customer>
+        <firstName>Vova</firstName>
+        <lastName>Zopin</lastName>
+    </customer>
+    <customer>
+        <firstName>Kolja</firstName>
+        <lastName>Rukop</lastName>
+    </customer>
+</customers>
